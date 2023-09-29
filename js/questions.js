@@ -29,7 +29,7 @@ const questions = [
   {
     prompt: 'What is the term for a coordinated cyber attack in which multiple compromised computers are used to flood a target system, overwhelming it with traffic and causing it to become unavailable?',
     options: ['Botnet','Firewall','VPN','Rootkit'
-'],
+],
     correctAnswer: 'Botnet',
     cashPrize: 1000
   },
@@ -77,7 +77,7 @@ const questions = [
   {
     prompt: 'What is the purpose of an intrusion detection system (IDS) in network security?',
     options: ['To encrypt network traffic','To authenticate users','To prevent denial-of-service attacks','To detect and respond to potential security breaches'
-'],
+],
     correctAnswer: 'To detect and respond to potential security breaches',
     cashPrize: 50
   },
@@ -103,7 +103,7 @@ const questions = [
   {
     prompt: 'Which of the following is a common method used for user authentication in operating systems?',
     options: [' Password-based authentication','Fingerprint recognition','Two-factor authentication','All of the above'
-'],
+],
     correctAnswer: 'All of the above',
     cashPrize: 10
   },
