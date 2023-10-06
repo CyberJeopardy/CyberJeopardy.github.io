@@ -89,7 +89,7 @@ const questions = [
   },
   {
     prompt: 'What is a common vulnerability associated with unsecured wireless networks?',
-    options: ['Cross-site scripting (XSS)'',SQL injection,Man-in-the-middle (MitM) attacks','Distributed denial-of-service (DDoS) attacks'],
+    options: ['Cross-site scripting (XSS)','SQL injection','Man-in-the-middle (MitM) attacks','Distributed denial-of-service (DDoS) attacks'],
     correctAnswer: 'Man-in-the-middle (MitM) attacks',
     cashPrize: 500
   },
